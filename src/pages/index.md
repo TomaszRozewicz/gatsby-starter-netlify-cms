@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great coffee with a conscience321
 notitle: "32131231"
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
